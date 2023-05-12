@@ -23,6 +23,7 @@ import {
   jobit,
   tripguide,
   threejs,
+  flutter,
 } from "../assets";
 
 export const navLinks = [
@@ -46,15 +47,12 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Flutter Developer",
     icon: mobile,
   },
+
   {
-    title: "Backend Developer",
-    icon: backend,
-  },
-  {
-    title: "Content Creator",
+    title: "Video Editor",
     icon: creator,
   },
 ];
@@ -73,16 +71,8 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
-  },
-  {
     name: "React JS",
     icon: reactjs,
-  },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
   },
   {
     name: "Tailwind CSS",
@@ -93,10 +83,6 @@ const technologies = [
     icon: nodejs,
   },
   {
-    name: "MongoDB",
-    icon: mongodb,
-  },
-  {
     name: "Three JS",
     icon: threejs,
   },
@@ -105,66 +91,64 @@ const technologies = [
     icon: git,
   },
   {
-    name: "figma",
-    icon: figma,
-  },
-  {
     name: "docker",
     icon: docker,
   },
+  {
+    name: "flutter",
+    icon: flutter,
+  }
 ];
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    title: "Internship in Flutter Development",
+    company_name: "Euphotech",
+    icon: flutter,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Nov 2019 - Nov 2020",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Internship focused on developing and maintaining a mobile application using Flutter.",
+      "Collaborating with other developers to create a high-quality product.",
+      "Implementing responsive designs.",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
+    title: "Jr. Flutter Developer",
+    company_name: "MySoftware",
+    icon: flutter,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Dec 2020 - Feb 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Developing and maintaining a website using Flutter and other related technologies.",
+      "Collaborating with other developers to create a high-quality product.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
+    title: "Jr. Flutter Developer",
+    company_name: "ThinkProject",
+    icon: flutter,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Apr 2021 - Sep 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developing and maintaining web and mobile applications using Flutter.",
+      "Collaborating with other teams including product managers and other developers to create high-quality products.",
+      "Implementing responsive design and ensuring various devices compatibility.",
+      "Participating in code reviews and being given feedback from superior developers.",
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
+    title: "Jr. Flutter Developer",
+    company_name: "CRMall",
+    icon: flutter,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Sep 2021 - Dec 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developing and maintaining a mobile application using Flutter, and then porting it to web.",
+      "Collaborating with other teams including designers, product managers and other developers to create a high-quality product.",
+      "Implementing responsive design and ensuring various devices and browsers compatibility.",
+      "Participating in code reviews and being given feedback from superior developers.",
     ],
   },
 ];
