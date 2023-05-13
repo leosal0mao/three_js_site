@@ -24,6 +24,9 @@ import {
   tripguide,
   threejs,
   flutter,
+  discord,
+  portfolio,
+  finance,
 } from "../assets";
 
 export const navLinks = [
@@ -199,7 +202,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: finance,
     source_code_link: "https://github.com/leosal0mao/finance-app-design",
   },
   {
@@ -220,7 +223,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: discord,
     source_code_link: "https://github.com/leosal0mao/cb-songs",
   },
   {
@@ -241,7 +244,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: portfolio,
     source_code_link: "https://github.com/leosal0mao/three_js_site",
   },
 ];

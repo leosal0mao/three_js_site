@@ -30,6 +30,9 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import discord from "./discord.png";
+import finance from "./finance.jpg";
+import portfolio from "./portfoliosite.png";
 
 export {
   logo,
@@ -61,4 +64,7 @@ export {
   jobit,
   tripguide,
   flutter,
+  finance,
+  portfolio,
+  discord,
 };
