@@ -182,67 +182,67 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Finances App",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Mobile based application that allows users to control their finances, providing a convenient and efficient sollution for financial needs.",
     tags: [
       {
-        name: "react",
+        name: "flutter",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "shelf",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "firebase",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/leosal0mao/finance-app-design",
   },
   {
-    name: "Job IT",
+    name: "cb-songs",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Node.js discord bot made for fun, used for playing songs directly from youtube or spotify on any servers that I allow it.",
     tags: [
       {
-        name: "react",
+        name: "node.js",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "discord",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "restAPI",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/leosal0mao/cb-songs",
   },
   {
-    name: "Trip Guide",
+    name: "This site :)",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A dive on JavaScript and it's vast library of packages, that I'm learning and so far, enjoying every second of it. Used as a base for my new portfolio.",
     tags: [
       {
-        name: "nextjs",
+        name: "React.js",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Three.js",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "tailwindcss",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/leosal0mao/three_js_site",
   },
 ];
 
